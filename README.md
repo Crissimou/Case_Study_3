@@ -6,4 +6,4 @@ Babagonio, Philip Neel
 Angoy, Jessa Mae
 Agusin, Princess Aira
 
-Run the script first in your sql server and change the sername in the DataBaseConnection.py and you are good to go.
+Run the script first in your sql server and change the server name with your sql server name in the DataBaseConnection.py file and you are good to go.
